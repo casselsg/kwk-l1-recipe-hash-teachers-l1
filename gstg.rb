@@ -12,4 +12,4 @@ capitals = {"MA" => "Boston",
 puts "which state would you like to know the capital of?"
  given = gets.chomp
  
- puts capitals[states[given]]
+ puts states[given]
