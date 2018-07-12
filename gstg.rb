@@ -14,3 +14,4 @@ puts "which state would you like to know the capital of?"
  
  puts states capitals[states]
  
+capitals[states[given]]
