@@ -10,3 +10,6 @@ one_direction = {"Zayn" => 25,
       given = "Zayn"
 puts "Zayn,"
 puts [one_direction[given]]
+
+
+
