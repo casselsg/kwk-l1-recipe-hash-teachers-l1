@@ -7,4 +7,6 @@ one_direction = {"Zayn" => 25,
                  "Niall" => 24 
 }
 ​
-      
+      given = "Zayn"
+puts "Zayn,"
+puts [one_direction[given]]
