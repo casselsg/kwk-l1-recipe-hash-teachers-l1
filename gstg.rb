@@ -16,7 +16,7 @@ puts "which state would you like to know the capital of?"
  puts "Unknown State?"
  else
    
- given = "North Alaska"
+ given = gets.chomp
 if capitals[states[given]].nil?
     puts "Unknown"
   else puts capitals[states[given]]
