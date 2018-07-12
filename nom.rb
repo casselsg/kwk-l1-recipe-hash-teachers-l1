@@ -3,5 +3,6 @@
       "Monica" => "Neat Freak" ,
       "Joey" => "Jokester" ,
       "Chandler" => "Saracastic n00b" ,
-      "Pho"
+      "Phobe" => "Free Spirit"
+      "Rachel" => "Shopahoc"
      }
