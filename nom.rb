@@ -4,5 +4,5 @@
       "Joey" => "Jokester" ,
       "Chandler" => "Saracastic n00b" ,
       "Phobe" => "Free Spirit"
-      "Rachel" => "Shopahoc"
+      "Rachel" => ""shopaholic
      }
