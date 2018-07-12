@@ -6,7 +6,7 @@ one_direction = {"Zayn" => 25,
                  "Harry" => 24,
                  "Niall" => 24 
 }
-​
+
 
 
 
