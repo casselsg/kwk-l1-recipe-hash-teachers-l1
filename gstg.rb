@@ -17,4 +17,8 @@ puts "which state would you like to know the capital of?"
  else
    
  puts capitals[states[given]]
- end
+ endgiven = "North Alaska"
+if capitals[states[given]].nil?
+    puts "Unknown"
+  else puts capitals[states[given]]
+end
